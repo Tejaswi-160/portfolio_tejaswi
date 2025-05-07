@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_tejaswi/static/css/main.f8c438de.css",
-    "main.js": "/portfolio_tejaswi/static/js/main.cb448c7c.js",
+    "main.js": "/portfolio_tejaswi/static/js/main.047dee0c.js",
     "static/js/453.1407b060.chunk.js": "/portfolio_tejaswi/static/js/453.1407b060.chunk.js",
     "static/media/UChealth.jpg": "/portfolio_tejaswi/static/media/UChealth.559a343f86c56ec5c09b.jpg",
     "static/media/teja-1 photo.jpg": "/portfolio_tejaswi/static/media/teja-1 photo.db56b9bb54dc7f86e11b.jpg",
@@ -13,11 +13,11 @@
     "static/media/bank image.jpeg": "/portfolio_tejaswi/static/media/bank image.552932c141b0db119af8.jpeg",
     "index.html": "/portfolio_tejaswi/index.html",
     "main.f8c438de.css.map": "/portfolio_tejaswi/static/css/main.f8c438de.css.map",
-    "main.cb448c7c.js.map": "/portfolio_tejaswi/static/js/main.cb448c7c.js.map",
+    "main.047dee0c.js.map": "/portfolio_tejaswi/static/js/main.047dee0c.js.map",
     "453.1407b060.chunk.js.map": "/portfolio_tejaswi/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8c438de.css",
-    "static/js/main.cb448c7c.js"
+    "static/js/main.047dee0c.js"
   ]
 }
