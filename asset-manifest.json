@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio_tejaswi/static/css/main.f8c438de.css",
+    "main.js": "/portfolio_tejaswi/static/js/main.cb448c7c.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio_tejaswi/static/js/453.1407b060.chunk.js",
+    "static/media/UChealth.jpg": "/portfolio_tejaswi/static/media/UChealth.559a343f86c56ec5c09b.jpg",
+    "static/media/teja-1 photo.jpg": "/portfolio_tejaswi/static/media/teja-1 photo.db56b9bb54dc7f86e11b.jpg",
+    "static/media/ICM.jpg": "/portfolio_tejaswi/static/media/ICM.07f915d9514ba050a3b0.jpg",
+    "static/media/chat image.png": "/portfolio_tejaswi/static/media/chat image.78d893aed14d7782f65e.png",
+    "static/media/github.png": "/portfolio_tejaswi/static/media/github.553c66159c5672f25df6.png",
+    "static/media/instagram.png": "/portfolio_tejaswi/static/media/instagram.316e1ce7daa426facac8.png",
+    "static/media/linkedin.png": "/portfolio_tejaswi/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/bank image.jpeg": "/portfolio_tejaswi/static/media/bank image.552932c141b0db119af8.jpeg",
+    "index.html": "/portfolio_tejaswi/index.html",
+    "main.f8c438de.css.map": "/portfolio_tejaswi/static/css/main.f8c438de.css.map",
+    "main.cb448c7c.js.map": "/portfolio_tejaswi/static/js/main.cb448c7c.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio_tejaswi/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8c438de.css",
+    "static/js/main.cb448c7c.js"
+  ]
+}
